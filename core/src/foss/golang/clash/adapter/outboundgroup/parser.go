@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/metacubex/mihomo/adapter/outbound"
-	"github.com/metacubex/mihomo/adapter/provider"
-	"github.com/metacubex/mihomo/common/structure"
-	"github.com/metacubex/mihomo/common/utils"
-	C "github.com/metacubex/mihomo/constant"
-	types "github.com/metacubex/mihomo/constant/provider"
+	"github.com/lingyicute/yiclashcore/adapter/outbound"
+	"github.com/lingyicute/yiclashcore/adapter/provider"
+	"github.com/lingyicute/yiclashcore/common/structure"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	C "github.com/lingyicute/yiclashcore/constant"
+	types "github.com/lingyicute/yiclashcore/constant/provider"
 )
 
 var (

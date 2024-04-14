@@ -5,13 +5,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/metacubex/mihomo/common/lru"
-	"github.com/metacubex/mihomo/common/nnip"
-	"github.com/metacubex/mihomo/component/fakeip"
-	R "github.com/metacubex/mihomo/component/resolver"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/context"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/common/lru"
+	"github.com/lingyicute/yiclashcore/common/nnip"
+	"github.com/lingyicute/yiclashcore/component/fakeip"
+	R "github.com/lingyicute/yiclashcore/component/resolver"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/context"
+	"github.com/lingyicute/yiclashcore/log"
 
 	D "github.com/miekg/dns"
 )

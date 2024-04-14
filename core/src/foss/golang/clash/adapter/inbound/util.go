@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/metacubex/mihomo/common/nnip"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/transport/socks5"
+	"github.com/lingyicute/yiclashcore/common/nnip"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
 )
 
 func parseSocksAddr(target socks5.Addr) *C.Metadata {

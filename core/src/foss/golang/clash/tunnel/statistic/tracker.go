@@ -6,11 +6,11 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/metacubex/mihomo/common/atomic"
-	"github.com/metacubex/mihomo/common/buf"
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/common/utils"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/common/atomic"
+	"github.com/lingyicute/yiclashcore/common/buf"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	C "github.com/lingyicute/yiclashcore/constant"
 
 	"github.com/gofrs/uuid/v5"
 )

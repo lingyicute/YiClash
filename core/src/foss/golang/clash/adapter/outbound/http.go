@@ -13,11 +13,11 @@ import (
 	"net/http"
 	"strconv"
 
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/component/ca"
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/proxydialer"
-	C "github.com/metacubex/mihomo/constant"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/component/ca"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/proxydialer"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 type Http struct {

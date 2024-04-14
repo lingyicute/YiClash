@@ -5,7 +5,7 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/metacubex/mihomo/common/utils"
+	"github.com/lingyicute/yiclashcore/common/utils"
 
 	"github.com/gofrs/uuid/v5"
 	"github.com/zhangyunhao116/fastrand"

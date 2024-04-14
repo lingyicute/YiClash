@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"unsafe"
 
-	N "github.com/metacubex/mihomo/common/net"
-	tlsC "github.com/metacubex/mihomo/component/tls"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	tlsC "github.com/lingyicute/yiclashcore/component/tls"
 
 	"github.com/gofrs/uuid/v5"
 	"github.com/sagernet/sing/common"

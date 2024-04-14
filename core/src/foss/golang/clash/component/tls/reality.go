@@ -21,9 +21,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/metacubex/mihomo/common/utils"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/ntp"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/ntp"
 
 	utls "github.com/sagernet/utls"
 	"github.com/zhangyunhao116/fastrand"

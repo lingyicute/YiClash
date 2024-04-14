@@ -7,14 +7,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/adapter/outbound"
-	"github.com/metacubex/mihomo/common/atomic"
-	"github.com/metacubex/mihomo/common/utils"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/constant/provider"
-	types "github.com/metacubex/mihomo/constant/provider"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/adapter/outbound"
+	"github.com/lingyicute/yiclashcore/common/atomic"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/constant/provider"
+	types "github.com/lingyicute/yiclashcore/constant/provider"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/tunnel"
 
 	"github.com/dlclark/regexp2"
 )

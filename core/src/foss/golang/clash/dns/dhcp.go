@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/component/dhcp"
-	"github.com/metacubex/mihomo/component/iface"
+	"github.com/lingyicute/yiclashcore/component/dhcp"
+	"github.com/lingyicute/yiclashcore/component/iface"
 	D "github.com/miekg/dns"
 )
 

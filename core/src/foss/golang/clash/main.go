@@ -12,12 +12,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/metacubex/mihomo/config"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/constant/features"
-	"github.com/metacubex/mihomo/hub"
-	"github.com/metacubex/mihomo/hub/executor"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/config"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/constant/features"
+	"github.com/lingyicute/yiclashcore/hub"
+	"github.com/lingyicute/yiclashcore/hub/executor"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"go.uber.org/automaxprocs/maxprocs"
 )

@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/metacubex/mihomo/component/geodata"
-	"github.com/metacubex/mihomo/component/geodata/router"
-	"github.com/metacubex/mihomo/component/mmdb"
-	"github.com/metacubex/mihomo/component/resolver"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/geodata"
+	"github.com/lingyicute/yiclashcore/component/geodata/router"
+	"github.com/lingyicute/yiclashcore/component/mmdb"
+	"github.com/lingyicute/yiclashcore/component/resolver"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type GEOIP struct {

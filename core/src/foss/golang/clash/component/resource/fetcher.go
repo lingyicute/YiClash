@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	types "github.com/metacubex/mihomo/constant/provider"
-	"github.com/metacubex/mihomo/log"
+	types "github.com/lingyicute/yiclashcore/constant/provider"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"github.com/samber/lo"
 )

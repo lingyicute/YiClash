@@ -158,7 +158,7 @@ jobs:
         GOMIPS: ${{matrix.jobs.mips}}
       run: |
         echo $CGO_ENABLED
-        go build -v -tags "with_gvisor" -trimpath -ldflags "${BUILDTAG} -X 'github.com/metacubex/mihomo/constant.Version=${VERSION}' -X 'github.com/metacubex/mihomo/constant.BuildTime=${BUILDTIME}' -w -s -buildid="
+        go build -v -tags "with_gvisor" -trimpath -ldflags "${BUILDTAG} -X 'github.com/lingyicute/yiclashcore/constant.Version=${VERSION}' -X 'github.com/lingyicute/yiclashcore/constant.BuildTime=${BUILDTIME}' -w -s -buildid="
         if [ "${{matrix.jobs.goos}}" = "windows" ]; then
           cp mihomo.exe mihomo-${{matrix.jobs.goos}}-${{matrix.jobs.output}}.exe
           zip -r mihomo-${{matrix.jobs.goos}}-${{matrix.jobs.output}}-${VERSION}.zip mihomo-${{matrix.jobs.goos}}-${{matrix.jobs.output}}.exe
@@ -276,7 +276,7 @@ jobs:
         Release created at  ${{ env.BUILDTIME }}
         Synchronize ${{ github.ref_name }} branch code updates, keeping only the latest version
         <br>
-        [我应该下载哪个文件? / Which file should I download?](https://github.com/MetaCubeX/mihomo/wiki/FAQ)
+        [我应该下载哪个文件? / Which file should I download?](https://github.com/lingyicute/YiClashCore/wiki/FAQ)
         [二进制文件筛选 / Binary file selector](https://metacubex.github.io/Meta-Docs/startup/#_1)
         [查看文档 / Docs](https://metacubex.github.io/Meta-Docs/)
         EOF

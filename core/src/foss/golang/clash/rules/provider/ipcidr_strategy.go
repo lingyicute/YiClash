@@ -1,9 +1,9 @@
 package provider
 
 import (
-	"github.com/metacubex/mihomo/component/cidr"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/cidr"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type ipcidrStrategy struct {

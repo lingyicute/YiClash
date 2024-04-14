@@ -6,9 +6,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/metacubex/mihomo/common/nnip"
-	"github.com/metacubex/mihomo/component/profile/cachefile"
-	"github.com/metacubex/mihomo/component/trie"
+	"github.com/lingyicute/yiclashcore/common/nnip"
+	"github.com/lingyicute/yiclashcore/component/profile/cachefile"
+	"github.com/lingyicute/yiclashcore/component/trie"
 )
 
 const (

@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/metacubex/mihomo/adapter"
-	"github.com/metacubex/mihomo/adapter/outboundgroup"
-	"github.com/metacubex/mihomo/common/utils"
-	"github.com/metacubex/mihomo/component/profile/cachefile"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/tunnel"
+	"github.com/lingyicute/yiclashcore/adapter"
+	"github.com/lingyicute/yiclashcore/adapter/outboundgroup"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	"github.com/lingyicute/yiclashcore/component/profile/cachefile"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/tunnel"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

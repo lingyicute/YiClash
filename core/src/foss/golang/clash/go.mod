@@ -1,4 +1,4 @@
-module github.com/metacubex/mihomo
+module github.com/lingyicute/yiclashcore
 
 go 1.20
 

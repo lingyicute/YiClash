@@ -8,8 +8,8 @@ import (
 	"strings"
 	_ "unsafe"
 
-	"github.com/metacubex/mihomo/common/utils"
-	"github.com/metacubex/mihomo/component/trie"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	"github.com/lingyicute/yiclashcore/component/trie"
 	"github.com/zhangyunhao116/fastrand"
 )
 

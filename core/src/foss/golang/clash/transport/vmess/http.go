@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/textproto"
 
-	"github.com/metacubex/mihomo/common/utils"
+	"github.com/lingyicute/yiclashcore/common/utils"
 
 	"github.com/zhangyunhao116/fastrand"
 )

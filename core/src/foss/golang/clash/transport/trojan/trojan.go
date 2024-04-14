@@ -12,13 +12,13 @@ import (
 	"net/http"
 	"sync"
 
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/common/pool"
-	"github.com/metacubex/mihomo/component/ca"
-	tlsC "github.com/metacubex/mihomo/component/tls"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/transport/socks5"
-	"github.com/metacubex/mihomo/transport/vmess"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	"github.com/lingyicute/yiclashcore/component/ca"
+	tlsC "github.com/lingyicute/yiclashcore/component/tls"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
+	"github.com/lingyicute/yiclashcore/transport/vmess"
 )
 
 const (

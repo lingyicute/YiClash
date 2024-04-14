@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/netip"
 
-	"github.com/metacubex/mihomo/common/callback"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/common/callback"
+	C "github.com/lingyicute/yiclashcore/constant"
 
 	"github.com/puzpuzpuz/xsync/v3"
 )

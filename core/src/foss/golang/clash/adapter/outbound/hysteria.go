@@ -14,17 +14,17 @@ import (
 	"github.com/metacubex/quic-go/congestion"
 	M "github.com/sagernet/sing/common/metadata"
 
-	"github.com/metacubex/mihomo/component/ca"
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/proxydialer"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
-	hyCongestion "github.com/metacubex/mihomo/transport/hysteria/congestion"
-	"github.com/metacubex/mihomo/transport/hysteria/core"
-	"github.com/metacubex/mihomo/transport/hysteria/obfs"
-	"github.com/metacubex/mihomo/transport/hysteria/pmtud_fix"
-	"github.com/metacubex/mihomo/transport/hysteria/transport"
-	"github.com/metacubex/mihomo/transport/hysteria/utils"
+	"github.com/lingyicute/yiclashcore/component/ca"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/proxydialer"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
+	hyCongestion "github.com/lingyicute/yiclashcore/transport/hysteria/congestion"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/core"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/obfs"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/pmtud_fix"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/transport"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/utils"
 )
 
 const (

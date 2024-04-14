@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/metacubex/mihomo/listener/sing"
+	"github.com/lingyicute/yiclashcore/listener/sing"
 
 	"encoding/json"
 )

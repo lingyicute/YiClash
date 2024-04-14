@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/metacubex/mihomo/adapter/outboundgroup"
-	"github.com/metacubex/mihomo/common/structure"
-	mihomoHttp "github.com/metacubex/mihomo/component/http"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/adapter/outboundgroup"
+	"github.com/lingyicute/yiclashcore/common/structure"
+	mihomoHttp "github.com/lingyicute/yiclashcore/component/http"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 func downloadForBytes(url string) ([]byte, error) {

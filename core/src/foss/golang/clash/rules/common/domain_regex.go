@@ -3,7 +3,7 @@ package common
 import (
 	"regexp"
 
-	C "github.com/metacubex/mihomo/constant"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 type DomainRegex struct {

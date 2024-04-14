@@ -17,10 +17,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/common/atomic"
-	"github.com/metacubex/mihomo/common/buf"
-	"github.com/metacubex/mihomo/common/pool"
-	tlsC "github.com/metacubex/mihomo/component/tls"
+	"github.com/lingyicute/yiclashcore/common/atomic"
+	"github.com/lingyicute/yiclashcore/common/buf"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	tlsC "github.com/lingyicute/yiclashcore/component/tls"
 
 	"golang.org/x/net/http2"
 )

@@ -8,12 +8,12 @@ import (
 	"net/netip"
 	"strings"
 
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/resolver"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/tunnel"
-	"github.com/metacubex/mihomo/tunnel/statistic"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/resolver"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/tunnel"
+	"github.com/lingyicute/yiclashcore/tunnel/statistic"
 )
 
 type proxyDialer struct {

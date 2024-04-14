@@ -1,8 +1,8 @@
 package provider
 
 import (
-	"github.com/metacubex/mihomo/common/utils"
-	"github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	"github.com/lingyicute/yiclashcore/constant"
 )
 
 // Vehicle Type

@@ -3,10 +3,10 @@ package common
 import (
 	"strconv"
 
-	"github.com/metacubex/mihomo/component/geodata"
-	"github.com/metacubex/mihomo/component/mmdb"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/geodata"
+	"github.com/lingyicute/yiclashcore/component/mmdb"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type ASN struct {

@@ -3,7 +3,7 @@ package vless
 import (
 	"net"
 
-	"github.com/metacubex/mihomo/common/utils"
+	"github.com/lingyicute/yiclashcore/common/utils"
 
 	"github.com/gofrs/uuid/v5"
 )

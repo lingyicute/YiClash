@@ -6,8 +6,8 @@ import (
 	"net/netip"
 	"strconv"
 
-	N "github.com/metacubex/mihomo/common/net"
-	C "github.com/metacubex/mihomo/constant"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 var tunnel C.Tunnel

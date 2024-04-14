@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 // Init prepare necessary files

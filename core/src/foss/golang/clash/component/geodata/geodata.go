@@ -3,8 +3,8 @@ package geodata
 import (
 	"fmt"
 
-	"github.com/metacubex/mihomo/component/geodata/router"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/component/geodata/router"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 type loader struct {

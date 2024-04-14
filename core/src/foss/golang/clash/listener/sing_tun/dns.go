@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/component/resolver"
-	"github.com/metacubex/mihomo/listener/sing"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/resolver"
+	"github.com/lingyicute/yiclashcore/listener/sing"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"github.com/sagernet/sing/common/buf"
 	"github.com/sagernet/sing/common/bufio"

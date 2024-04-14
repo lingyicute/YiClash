@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/metacubex/mihomo/common/atomic"
-	"github.com/metacubex/mihomo/component/resolver"
+	"github.com/lingyicute/yiclashcore/common/atomic"
+	"github.com/lingyicute/yiclashcore/component/resolver"
 )
 
 var (

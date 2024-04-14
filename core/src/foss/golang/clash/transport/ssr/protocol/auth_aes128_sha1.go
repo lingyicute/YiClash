@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/common/pool"
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/transport/ssr/tools"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/transport/ssr/tools"
 
 	"github.com/zhangyunhao116/fastrand"
 )

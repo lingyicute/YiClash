@@ -8,9 +8,9 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/metacubex/mihomo/common/utils"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/transport/socks5"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
 
 	"github.com/metacubex/quic-go"
 )

@@ -11,8 +11,8 @@ import (
 	"github.com/metacubex/quic-go"
 	"lukechampine.com/blake3"
 
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/transport/socks5"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
 )
 
 type BufferedReader interface {

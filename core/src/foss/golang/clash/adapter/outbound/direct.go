@@ -5,11 +5,11 @@ import (
 	"errors"
 	"net/netip"
 
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/loopback"
-	"github.com/metacubex/mihomo/component/resolver"
-	C "github.com/metacubex/mihomo/constant"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/loopback"
+	"github.com/lingyicute/yiclashcore/component/resolver"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 type Direct struct {

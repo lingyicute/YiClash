@@ -3,7 +3,7 @@ package trie_test
 import (
 	"testing"
 
-	"github.com/metacubex/mihomo/component/trie"
+	"github.com/lingyicute/yiclashcore/component/trie"
 	"github.com/stretchr/testify/assert"
 )
 

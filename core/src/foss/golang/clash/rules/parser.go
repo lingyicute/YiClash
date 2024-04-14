@@ -3,10 +3,10 @@ package rules
 import (
 	"fmt"
 
-	C "github.com/metacubex/mihomo/constant"
-	RC "github.com/metacubex/mihomo/rules/common"
-	"github.com/metacubex/mihomo/rules/logic"
-	RP "github.com/metacubex/mihomo/rules/provider"
+	C "github.com/lingyicute/yiclashcore/constant"
+	RC "github.com/lingyicute/yiclashcore/rules/common"
+	"github.com/lingyicute/yiclashcore/rules/logic"
+	RP "github.com/lingyicute/yiclashcore/rules/provider"
 )
 
 func ParseRule(tp, payload, target string, params []string, subRules map[string][]C.Rule) (parsed C.Rule, parseErr error) {

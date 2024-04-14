@@ -3,7 +3,7 @@ package sing_tun
 import (
 	"time"
 
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/log"
 
 	tun "github.com/metacubex/sing-tun"
 )

@@ -1,10 +1,10 @@
 package inbound
 
 import (
-	C "github.com/metacubex/mihomo/constant"
-	LC "github.com/metacubex/mihomo/listener/config"
-	"github.com/metacubex/mihomo/listener/tuic"
-	"github.com/metacubex/mihomo/log"
+	C "github.com/lingyicute/yiclashcore/constant"
+	LC "github.com/lingyicute/yiclashcore/listener/config"
+	"github.com/lingyicute/yiclashcore/listener/tuic"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type TuicOption struct {

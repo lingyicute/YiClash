@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/metacubex/mihomo/common/utils"
-	"github.com/metacubex/mihomo/component/trie"
+	"github.com/lingyicute/yiclashcore/common/utils"
+	"github.com/lingyicute/yiclashcore/component/trie"
 
 	"github.com/miekg/dns"
 	"github.com/zhangyunhao116/fastrand"

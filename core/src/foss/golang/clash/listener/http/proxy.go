@@ -10,12 +10,12 @@ import (
 	"sync"
 	_ "unsafe"
 
-	"github.com/metacubex/mihomo/adapter/inbound"
-	"github.com/metacubex/mihomo/common/lru"
-	N "github.com/metacubex/mihomo/common/net"
-	C "github.com/metacubex/mihomo/constant"
-	authStore "github.com/metacubex/mihomo/listener/auth"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/adapter/inbound"
+	"github.com/lingyicute/yiclashcore/common/lru"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	C "github.com/lingyicute/yiclashcore/constant"
+	authStore "github.com/lingyicute/yiclashcore/listener/auth"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 //go:linkname registerOnHitEOF net/http.registerOnHitEOF

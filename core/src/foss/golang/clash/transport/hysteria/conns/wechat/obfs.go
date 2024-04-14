@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/log"
-	"github.com/metacubex/mihomo/transport/hysteria/obfs"
+	"github.com/lingyicute/yiclashcore/log"
+	"github.com/lingyicute/yiclashcore/transport/hysteria/obfs"
 
 	"github.com/zhangyunhao116/fastrand"
 )

@@ -1,10 +1,10 @@
 package tuic
 
 import (
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/transport/tuic/common"
-	v4 "github.com/metacubex/mihomo/transport/tuic/v4"
-	v5 "github.com/metacubex/mihomo/transport/tuic/v5"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/transport/tuic/common"
+	v4 "github.com/lingyicute/yiclashcore/transport/tuic/v4"
+	v5 "github.com/lingyicute/yiclashcore/transport/tuic/v5"
 )
 
 type ClientOptionV4 = v4.ClientOption

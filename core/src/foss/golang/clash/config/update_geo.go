@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/metacubex/mihomo/component/geodata"
-	_ "github.com/metacubex/mihomo/component/geodata/standard"
-	"github.com/metacubex/mihomo/component/mmdb"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/component/geodata"
+	_ "github.com/lingyicute/yiclashcore/component/geodata/standard"
+	"github.com/lingyicute/yiclashcore/component/mmdb"
+	C "github.com/lingyicute/yiclashcore/constant"
 
 	"github.com/oschwald/maxminddb-golang"
 )

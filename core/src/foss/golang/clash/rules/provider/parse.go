@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/metacubex/mihomo/common/structure"
-	"github.com/metacubex/mihomo/component/resource"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/constant/features"
-	P "github.com/metacubex/mihomo/constant/provider"
+	"github.com/lingyicute/yiclashcore/common/structure"
+	"github.com/lingyicute/yiclashcore/component/resource"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/constant/features"
+	P "github.com/lingyicute/yiclashcore/constant/provider"
 )
 
 var (

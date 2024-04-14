@@ -3,12 +3,12 @@ package common
 import (
 	"fmt"
 
-	"github.com/metacubex/mihomo/component/geodata"
-	_ "github.com/metacubex/mihomo/component/geodata/memconservative"
-	"github.com/metacubex/mihomo/component/geodata/router"
-	_ "github.com/metacubex/mihomo/component/geodata/standard"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/geodata"
+	_ "github.com/lingyicute/yiclashcore/component/geodata/memconservative"
+	"github.com/lingyicute/yiclashcore/component/geodata/router"
+	_ "github.com/lingyicute/yiclashcore/component/geodata/standard"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type GEOSITE struct {

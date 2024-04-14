@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/metacubex/mihomo/common/pool"
-	"github.com/metacubex/mihomo/component/resource"
-	C "github.com/metacubex/mihomo/constant"
-	P "github.com/metacubex/mihomo/constant/provider"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	"github.com/lingyicute/yiclashcore/component/resource"
+	C "github.com/lingyicute/yiclashcore/constant"
+	P "github.com/lingyicute/yiclashcore/constant/provider"
 )
 
 var (

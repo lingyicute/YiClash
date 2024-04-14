@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	N "github.com/metacubex/mihomo/common/net"
-	C "github.com/metacubex/mihomo/constant"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	C "github.com/lingyicute/yiclashcore/constant"
 
 	"github.com/metacubex/quic-go"
 )

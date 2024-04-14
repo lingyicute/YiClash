@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/common/atomic"
-	N "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/common/pool"
-	"github.com/metacubex/mihomo/transport/tuic/common"
+	"github.com/lingyicute/yiclashcore/common/atomic"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	"github.com/lingyicute/yiclashcore/transport/tuic/common"
 
 	"github.com/metacubex/quic-go"
 	"github.com/zhangyunhao116/fastrand"

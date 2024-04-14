@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/metacubex/mihomo/common/buf"
-	N "github.com/metacubex/mihomo/common/net"
-	tlsC "github.com/metacubex/mihomo/component/tls"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/common/buf"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	tlsC "github.com/lingyicute/yiclashcore/component/tls"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"github.com/gobwas/ws"
 	"github.com/gobwas/ws/wsutil"

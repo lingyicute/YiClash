@@ -2,9 +2,9 @@ package provider
 
 import (
 	"fmt"
-	C "github.com/metacubex/mihomo/constant"
-	P "github.com/metacubex/mihomo/constant/provider"
-	"github.com/metacubex/mihomo/rules/common"
+	C "github.com/lingyicute/yiclashcore/constant"
+	P "github.com/lingyicute/yiclashcore/constant/provider"
+	"github.com/lingyicute/yiclashcore/rules/common"
 )
 
 type RuleSet struct {

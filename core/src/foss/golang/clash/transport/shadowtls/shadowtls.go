@@ -11,8 +11,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/metacubex/mihomo/common/pool"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/common/pool"
+	C "github.com/lingyicute/yiclashcore/constant"
 )
 
 const (

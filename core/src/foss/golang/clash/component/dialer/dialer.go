@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/mihomo/component/resolver"
-	"github.com/metacubex/mihomo/constant/features"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/component/resolver"
+	"github.com/lingyicute/yiclashcore/constant/features"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 const (

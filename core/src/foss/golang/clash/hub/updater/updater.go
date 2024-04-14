@@ -15,10 +15,10 @@ import (
 	"sync"
 	"time"
 
-	mihomoHttp "github.com/metacubex/mihomo/component/http"
-	"github.com/metacubex/mihomo/constant"
-	C "github.com/metacubex/mihomo/constant"
-	"github.com/metacubex/mihomo/log"
+	mihomoHttp "github.com/lingyicute/yiclashcore/component/http"
+	"github.com/lingyicute/yiclashcore/constant"
+	C "github.com/lingyicute/yiclashcore/constant"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"github.com/klauspost/cpuid/v2"
 )
@@ -42,8 +42,8 @@ var (
 	backupExeName  string // 备份文件名
 	updateExeName  string // 更新后的可执行文件
 
-	baseURL       string = "https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/mihomo"
-	versionURL    string = "https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/version.txt"
+	baseURL       string = "https://github.com/lingyicute/YiClashCore/releases/download/Prerelease-Alpha/mihomo"
+	versionURL    string = "https://github.com/lingyicute/YiClashCore/releases/download/Prerelease-Alpha/version.txt"
 	packageURL    string
 	latestVersion string
 )

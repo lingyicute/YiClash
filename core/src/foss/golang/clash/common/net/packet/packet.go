@@ -3,7 +3,7 @@ package packet
 import (
 	"net"
 
-	"github.com/metacubex/mihomo/common/pool"
+	"github.com/lingyicute/yiclashcore/common/pool"
 )
 
 type WaitReadFrom interface {

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/metacubex/mihomo/common/pool"
+	"github.com/lingyicute/yiclashcore/common/pool"
 
 	"golang.org/x/sys/windows"
 )

@@ -4,12 +4,12 @@ import (
 	"net"
 	"strings"
 
-	"github.com/metacubex/mihomo/adapter/inbound"
-	N "github.com/metacubex/mihomo/common/net"
-	C "github.com/metacubex/mihomo/constant"
-	LC "github.com/metacubex/mihomo/listener/config"
-	"github.com/metacubex/mihomo/transport/shadowsocks/core"
-	"github.com/metacubex/mihomo/transport/socks5"
+	"github.com/lingyicute/yiclashcore/adapter/inbound"
+	N "github.com/lingyicute/yiclashcore/common/net"
+	C "github.com/lingyicute/yiclashcore/constant"
+	LC "github.com/lingyicute/yiclashcore/listener/config"
+	"github.com/lingyicute/yiclashcore/transport/shadowsocks/core"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
 )
 
 type Listener struct {

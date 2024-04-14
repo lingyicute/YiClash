@@ -1,10 +1,10 @@
 package hub
 
 import (
-	"github.com/metacubex/mihomo/config"
-	"github.com/metacubex/mihomo/hub/executor"
-	"github.com/metacubex/mihomo/hub/route"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/config"
+	"github.com/lingyicute/yiclashcore/hub/executor"
+	"github.com/lingyicute/yiclashcore/hub/route"
+	"github.com/lingyicute/yiclashcore/log"
 )
 
 type Option func(*config.Config)

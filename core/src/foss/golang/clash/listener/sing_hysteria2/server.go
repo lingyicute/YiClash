@@ -11,14 +11,14 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/metacubex/mihomo/adapter/inbound"
-	"github.com/metacubex/mihomo/adapter/outbound"
-	CN "github.com/metacubex/mihomo/common/net"
-	"github.com/metacubex/mihomo/common/sockopt"
-	C "github.com/metacubex/mihomo/constant"
-	LC "github.com/metacubex/mihomo/listener/config"
-	"github.com/metacubex/mihomo/listener/sing"
-	"github.com/metacubex/mihomo/log"
+	"github.com/lingyicute/yiclashcore/adapter/inbound"
+	"github.com/lingyicute/yiclashcore/adapter/outbound"
+	CN "github.com/lingyicute/yiclashcore/common/net"
+	"github.com/lingyicute/yiclashcore/common/sockopt"
+	C "github.com/lingyicute/yiclashcore/constant"
+	LC "github.com/lingyicute/yiclashcore/listener/config"
+	"github.com/lingyicute/yiclashcore/listener/sing"
+	"github.com/lingyicute/yiclashcore/log"
 
 	"github.com/metacubex/sing-quic/hysteria2"
 

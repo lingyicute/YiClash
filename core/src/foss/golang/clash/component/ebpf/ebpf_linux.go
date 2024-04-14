@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"net/netip"
 
-	"github.com/metacubex/mihomo/common/cmd"
-	"github.com/metacubex/mihomo/component/dialer"
-	"github.com/metacubex/mihomo/component/ebpf/redir"
-	"github.com/metacubex/mihomo/component/ebpf/tc"
-	C "github.com/metacubex/mihomo/constant"
+	"github.com/lingyicute/yiclashcore/common/cmd"
+	"github.com/lingyicute/yiclashcore/component/dialer"
+	"github.com/lingyicute/yiclashcore/component/ebpf/redir"
+	"github.com/lingyicute/yiclashcore/component/ebpf/tc"
+	C "github.com/lingyicute/yiclashcore/constant"
 	"github.com/sagernet/netlink"
 )
 

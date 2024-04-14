@@ -3,7 +3,7 @@ package constant
 import (
 	"net/netip"
 
-	"github.com/metacubex/mihomo/transport/socks5"
+	"github.com/lingyicute/yiclashcore/transport/socks5"
 )
 
 const (

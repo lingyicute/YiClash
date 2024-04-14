@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/metacubex/mihomo/common/pool"
+	"github.com/lingyicute/yiclashcore/common/pool"
 )
 
 const (

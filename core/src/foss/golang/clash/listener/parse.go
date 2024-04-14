@@ -3,9 +3,9 @@ package listener
 import (
 	"fmt"
 
-	"github.com/metacubex/mihomo/common/structure"
-	C "github.com/metacubex/mihomo/constant"
-	IN "github.com/metacubex/mihomo/listener/inbound"
+	"github.com/lingyicute/yiclashcore/common/structure"
+	C "github.com/lingyicute/yiclashcore/constant"
+	IN "github.com/lingyicute/yiclashcore/listener/inbound"
 )
 
 func ParseListener(mapping map[string]any) (C.InboundListener, error) {
