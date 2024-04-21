@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package yiclashcore.transport.vless;
+option csharp_namespace = "YiClashCore.Transport.Vless";
+option go_package = "github.com/lingyicute/yiclashcore/transport/vless";
+option java_package = "com.yiclashcore.transport.vless";
+option java_multiple_files = true;
+
+message Addons {
+  string Flow = 1;
+  bytes Seed = 2;
+}
